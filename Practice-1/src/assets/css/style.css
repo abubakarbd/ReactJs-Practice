@@ -1,0 +1,11 @@
+.linkColor{
+    color:green;
+}
+.linkColorVisit{
+    color:red;
+}
+.imageStyle{
+    width: 99%;
+    height: 40rem;
+    border: 10px solid #ff0000;
+}
